@@ -1,4 +1,4 @@
-4354
+4359
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\regions\RE.js133103040387916160 0
 74C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@lezer133103040353400138 1
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\regions\NA.js133103040386116151 0
@@ -21,7 +21,7 @@
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\source-map-js\lib\quick-sort.js133103052259859671 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\utility-types\dist\mapped-types.js133103040362556217 0
 100C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\transformer-posthtml\src133103040374356200 1
-79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_startpage.scss133103187830894897 0
+79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_startpage.scss133104691720125122 0
 75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\timsort133103040363116210 1
 65C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\.gitignore133103058605148484 0
 120C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\css-background-offsets.js133103040374756191 0
@@ -44,7 +44,7 @@
 76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\escalade133103040361876217 1
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\CommittedAsset.js133103040382636161 0
 113C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133103040381556164 0
-59C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist133104017690511064 1
+59C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist133104691721415986 1
 117C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133103040365276207 0
 131C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133103040386716151 0
 76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\lib133103040373276186 1
@@ -79,6 +79,7 @@
 86C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\plugin\src133103040367836201 1
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\mergePaths.js133103040367596201 0
 96C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\sass\types\logger\index.d.ts133103052260941289 0
+89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Alexandra_Square.a526e90a.png133104690579464753 0
 116C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@jridgewell\gen-mapping\src\sourcemap-segment.ts133103040363436221 0
 101C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\css-tree\lib\syntax\pseudo\not.js133103040373196189 0
 101C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@swc\helpers\scripts\generator.sh133103040375796185 0
@@ -90,12 +91,12 @@
 115C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js133103040374276190 0
 75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel133103052258699685 1
 109C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\optimizer-image\lib\loadNative.js133103040376276183 0
-71C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\css\main.css133103154962340031 0
+71C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\css\main.css133104677445509714 0
 127C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133103040375356183 0
 86C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\msgpackr\README.md133103040368596198 0
 107C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\packager-svg\src\SVGPackager.js133103040373956187 0
 79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\glob-parent133103052259659665 1
-76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_mixins.scss133103182936009998 0
+76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_mixins.scss133104042924522819 0
 104C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\v8-compile-cache\v8-compile-cache.js133103040374876185 0
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\sass\types\value\list.d.ts133103052260941289 0
 115C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133103040388596152 0
@@ -106,15 +107,15 @@
 113C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133103040366556203 0
 104C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\cleanupNumericValues.js133103040364836207 0
 93C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\requests133103040385956157 1
-69C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\index.html133103190707206662 0
+69C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\index.html133104684667909915 0
 97C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\electron-to-chromium\index.js133103040362756213 0
 96C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\workers\src\Trace.js133103040373796186 0
-63C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss133104017564007695 1
+63C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss133104032712786654 1
 87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\terser\lib\compress133103040370676193 1
 87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\yaml\parse-cst.d.ts133103040370476193 0
 89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\posthtml\package.json133103040368476201 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\src\PackagerRunner.js133103040383796159 0
-73C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\main.scss133103164109346058 0
+73C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\main.scss133104042941479565 0
 86C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\timsort\.npmignore133103040360596340 0
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\regions\SY.js133103040389316148 0
 101C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\public\Bundle.js133103040382196164 0
@@ -132,8 +133,10 @@
 113C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133103040363636219 0
 84C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\dotenv\README.md133103040363756210 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\ReporterRunner.js133103040384636238 0
-76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_navbar.scss133104017564007695 0
+76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_navbar.scss133104042963985148 0
 119C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\css-image-orientation.js133103040375676184 0
+97C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\removeViewBox.js133103040371276192 0
+75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_reset.scss133104032712786654 0
 73C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\clone133103040364116208 1
 77C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\yaml\dist133103040369556202 1
 97C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\type-fest\source\mutable.d.ts133103040365996208 0
@@ -150,7 +153,7 @@
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\runtime-react-refresh\package.json133103040378196176 0
 96C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\htmlparser2\lib\Tokenizer.js133103040361636218 0
 105C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\msgpackr-extract\src\.vs\src\v16\.suo133103040359836224 0
-75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\css\main.css.map133103150102143648 0
+75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\css\main.css.map133104043508799952 0
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\regions\UZ.js133103040390156146 0
 84C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\terser\README.md133103040371596192 0
 96C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\node-gyp-build-test.ps1133103040398182376 0
@@ -913,8 +916,8 @@
 117C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js133103040374276190 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\removeStyleElement.js133103040370636193 0
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\regions\PL.js133103040387596158 0
-103C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\utility-types\dist\utility-types.js133103040362796214 0
 127C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133103040363316213 0
+103C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\utility-types\dist\utility-types.js133103040362796214 0
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\msgpackr\dist\index.js.map133103040366476203 0
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\domutils\lib\querying.d.ts133103040365596207 0
 107C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\utility-types\dist\utility-types.js.map133103040364276219 0
@@ -1283,7 +1286,6 @@
 92C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\transformer-html133103040377796178 1
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133103040371156196 0
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@swc\helpers\lib\_await_async_generator.js133103040364836207 0
-97C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\removeViewBox.js133103040371276192 0
 107C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133103040369716201 0
 91C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\braces\lib\constants.js133103052259819664 0
 101C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\removeXMLProcInst.js133103040371396193 0
@@ -1869,7 +1871,6 @@
 80C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\mdn-data\api133103040363836208 1
 106C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\minmaxwh.js133103040385396154 0
 89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\mdn-data\package.json133103040364196208 0
-95C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lines-and-columns\README.md133103040360396229 0
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\requests\TargetRequest.js133103040385356155 0
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\css-tree\lib\definition-syntax\generate.js133103040369596200 0
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\htmlnano\docs\package.json133103040369636201 0
@@ -2049,6 +2050,7 @@
 123C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133103040375316187 0
 98C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lines-and-columns\package.json133103040359676223 0
 95C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\events\src\index.js133103040379196189 0
+95C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lines-and-columns\README.md133103040360396229 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lines-and-columns\build\index.d.ts133103040361196221 0
 108C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lightningcss-win32-x64-msvc\package.json133103040359516220 0
 90C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lightningcss\README.md133103040363276211 0
@@ -3312,7 +3314,7 @@
 111C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\selection-api.js133103040388516153 0
 112C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\serviceworkers.js133103040388516153 0
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\setimmediate.js133103040388556147 0
-83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js133104017688218460 0
+83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js133104690579893616 0
 107C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\shadowdom.js133103040388556147 0
 111C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\sharedworkers.js133103040388596152 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\spdy.js133103040388756151 0
@@ -4345,11 +4347,14 @@
 81C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\svgo.ps1133103040398182376 0
 79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\terser133103040398182376 0
 83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\terser.ps1133103040398182376 0
-87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js.map133104017688258445 0
-78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css133104017687138463 0
-82C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css.map133104017687258448 0
-70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.html133104017687298449 0
-105C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\negative-space-black-forest-dawn.1f96b6d6.jpg133104017690471018 0
+87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js.map133104690579923524 0
+78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css133104691721386072 0
+82C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css.map133104691721415986 0
+70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.html133104690579030523 0
+105C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\negative-space-black-forest-dawn.1f96b6d6.jpg133104690581577330 0
+88C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\NoPerson_Square.f348d49f.png133104690578890895 0
+85C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Rakib_Square.2b16126c.png133104690578950748 0
+89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Sebastian_Square.206c669e.png133104690579401284 0
 98C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\assets\negative-space-black-forest-dawn.jpg132427283200000000 0
 70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\assets\profiles133103028086609645 1
 87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\assets\profiles\Rakib_Square.png132427432900000000 0
