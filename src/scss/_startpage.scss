@@ -60,10 +60,9 @@
     .text-box, p {
         width:250px;
         height:100px;
-        border-radius: 3px;
         color:black;
         background-color: rgb(248, 228, 228);
-        border-radius: 10px;
+        border-radius: 5px;
         margin:15px;
 
         i {
@@ -72,18 +71,46 @@
             color: black;
         }
     }
+}
 
+    .footer {
+       display:flex;
+       flex-direction:column;
+       background-color: black;
+       align-items: center;
+       justify-content: center;
+       font-size:25px;
+       color:white;
+       height:60vh;
 
+       ul {
+        padding-left:0;
+        align-items:center;
+        width:50%;
+        margin-bottom: 20px;
+       }
 
-  }
+       li {
+        padding-bottom:15px;
+       }
 
-  @media only screen and (min-width:700px) {
-    h1, .circle-pic, .text-box, p {
-
-        display:flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
+    
     }
 
-  }
+
+   @media screen and (min-width:700px) {
+
+    .footer {
+
+   flex-direction: row;
+   height: 25vh;
+   justify-content: space-around;
+   align-items: start;
+   font-size: 20px;
+}
+}
+
+
+
+
+
