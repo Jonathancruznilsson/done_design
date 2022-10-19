@@ -12,24 +12,25 @@
     ></script>
 </head>
 <body>
-    <nav>
-        <input type="checkbox" id="toggle" />
-        <label for="toggle"></label>
-        <ul class="nav-list">
-          <li class="nav-item">
-            <a class="nav-link" href="">Hem</a>
-            <a class="nav-link" href="">Kontakt</a>
-            <a class="nav-link" href="">Om</a>
-          </li>
+    <header class="top-nav">
+        
+        <input id="menu-toggle" type="checkbox" />
+        <label class='menu-button-container' for="menu-toggle">
+        <div class='menu-button'></div>
+      </label>
+        <ul class="menu">
+          <li>Hem</li>
+          <li><a href="#about">Om oss</a></li>
+          <li><a href="#contact">Kontakt</a></li>
+          
         </ul>
-      </nav>
-  
+    </header>
       <main>
         <h1>Welcome to nature</h1>
         <h2>A journey through time and sheep</h2>
-        <h2>Too see how... cotton... is mage, made I mean</h2>
+        <h2>Too see how... cotton... is <br> mage. made I mean...</h2>
   
-        <a href="#">
+        <a href="#about">
           <span class="fa-sharp fa-solid fa-circle-down"></span>
         </a>
      
@@ -39,11 +40,11 @@
       </a>
     </main>
 
-    <aside class="about">
+    <aside class="about" id="about">
 
-        <h1>Träffa laget</h1>
+        <h3>Träffa laget</h3>
 
-        <div>
+        <div class="profile">
             <img class="circle-pic" src="/assets/profiles/Rakib_Square.png" alt="Rakib">
             <div class="text-box">
         <i class="fa-sharp fa-solid fa-quote-right"></i>
@@ -52,7 +53,7 @@
             </div>
         </div>
 
-        <div>
+        <div class="profile">
             <img class="circle-pic" src="/assets/profiles/Alexandra_Square.png" alt="Alexandra">
             <div class="text-box">
         <i class="fa-sharp fa-solid fa-quote-right"></i>
@@ -62,7 +63,7 @@
             </div>
         </div>
 
-        <div>
+        <div class="profile">
             <img class="circle-pic" src="/assets/profiles/NoPerson_Square.png" alt="Noperson">
             <div class="text-box">
         <i class="fa-sharp fa-solid fa-quote-right"></i>
@@ -70,7 +71,7 @@
             </div>
         </div>
 
-        <div>
+        <div class="profile">
             <img class="circle-pic" src="/assets/profiles/Sebastian_Square.png" alt="Sebastian">
             <div class="text-box">
         <i class="fa-sharp fa-solid fa-quote-right"></i>
@@ -79,7 +80,7 @@
             </div>
         </div>
     </aside>
-    <footer class="footer">
+    <footer class="footer" id="contact">
         <ul class="footer__adress">
             <li>TegelKonstuling</li>
             <li>Agatvägen 18</li>
@@ -90,6 +91,16 @@
             <li>Info at Tegelconsulting.se</li>
             <li>070-123 456 78</li>
         </ul>
+
+        <ul class="footer__social">
+            <li><i class="fa-brands fa-facebook"></i></li>
+
+
+
+            
+        </ul>
+
+        
    
 
 
