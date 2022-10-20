@@ -5,12 +5,7 @@
 
   
   body {
-    background-image: url(/assets/negative-space-black-forest-dawn.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    min-height: 100vh;
+  @include m.background-image;
 
     
   
@@ -37,13 +32,19 @@
 
     }
   
-
   @include m.desktop {
     font-size: 14px;
+ }
+
+.main_arrowdown {
+    font-size: 30px;
     
-
-
-  }
+    /* används inte
+    @include m.desktop {
+        font-size: 25px;
+    }
+    */
+}
 
 }
 
