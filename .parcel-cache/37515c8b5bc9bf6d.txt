@@ -21,7 +21,7 @@
 99C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\source-map-js\lib\quick-sort.js133103052259859671 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\utility-types\dist\mapped-types.js133103040362556217 0
 100C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\transformer-posthtml\src133103040374356200 1
-79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_startpage.scss133106591947831298 0
+79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_startpage.scss133107619845897409 0
 75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\timsort133103040363116210 1
 65C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\.gitignore133103058605148484 0
 120C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\css-background-offsets.js133103040374756191 0
@@ -44,7 +44,7 @@
 76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\escalade133103040361876217 1
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\CommittedAsset.js133103040382636161 0
 113C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133103040381556164 0
-59C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist133106592054873555 1
+59C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist133107619847322383 1
 117C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133103040365276207 0
 131C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133103040386716151 0
 76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\lib133103040373276186 1
@@ -79,7 +79,7 @@
 86C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\plugin\src133103040367836201 1
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\mergePaths.js133103040367596201 0
 96C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\sass\types\logger\index.d.ts133103052260941289 0
-89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Alexandra_Square.a526e90a.png133106592051909470 0
+89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Alexandra_Square.a526e90a.png133107603677796254 0
 116C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@jridgewell\gen-mapping\src\sourcemap-segment.ts133103040363436221 0
 101C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\css-tree\lib\syntax\pseudo\not.js133103040373196189 0
 101C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@swc\helpers\scripts\generator.sh133103040375796185 0
@@ -107,7 +107,7 @@
 113C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133103040366556203 0
 104C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\cleanupNumericValues.js133103040364836207 0
 93C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\requests133103040385956157 1
-69C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\index.html133106580771963324 0
+69C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\index.html133107612891955692 0
 97C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\electron-to-chromium\index.js133103040362756213 0
 96C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\workers\src\Trace.js133103040373796186 0
 63C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss133106519408126312 1
@@ -133,7 +133,7 @@
 113C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133103040363636219 0
 84C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\dotenv\README.md133103040363756210 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\lib\ReporterRunner.js133103040384636238 0
-76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_navbar.scss133106520729978456 0
+76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_navbar.scss133107253381427548 0
 119C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\css-image-orientation.js133103040375676184 0
 97C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\removeViewBox.js133103040371276192 0
 75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_reset.scss133104032712786654 0
@@ -3315,7 +3315,7 @@
 111C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\selection-api.js133103040388516153 0
 112C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\serviceworkers.js133103040388516153 0
 110C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\setimmediate.js133103040388556147 0
-83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js133106592052669462 0
+83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js133107612893194708 0
 107C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\shadowdom.js133103040388556147 0
 111C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\sharedworkers.js133103040388596152 0
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\spdy.js133103040388756151 0
@@ -4348,14 +4348,14 @@
 81C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\svgo.ps1133103040398182376 0
 79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\terser133103040398182376 0
 83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\terser.ps1133103040398182376 0
-87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js.map133106592052709473 0
-78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css133106592051429477 0
-82C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css.map133106592051509472 0
-70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.html133106592051429477 0
-105C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\negative-space-black-forest-dawn.1f96b6d6.jpg133106592054833556 0
-88C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\NoPerson_Square.f348d49f.png133106592051389486 0
-85C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Rakib_Square.2b16126c.png133106592051509472 0
-89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Sebastian_Square.206c669e.png133106592051829496 0
+87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js.map133107612893234700 0
+78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css133107619847282393 0
+82C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css.map133107619847322383 0
+70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.html133107612893354702 0
+105C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\negative-space-black-forest-dawn.1f96b6d6.jpg133107603680776167 0
+88C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\NoPerson_Square.f348d49f.png133107603677050465 0
+85C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Rakib_Square.2b16126c.png133107603677170464 0
+89C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\Sebastian_Square.206c669e.png133107603677716271 0
 98C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\assets\negative-space-black-forest-dawn.jpg132427283200000000 0
 70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\assets\profiles133103028086609645 1
 87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\assets\profiles\Rakib_Square.png132427432900000000 0
