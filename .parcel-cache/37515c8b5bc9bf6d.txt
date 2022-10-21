@@ -37,7 +37,7 @@
 102C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\plugins\convertShapeToPath.js133103040366116205 0
 58C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src133103048265899074 1
 94C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\utility-types\package.json133103040363156210 0
-59C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist133108143183978691 1
+59C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist133108157045995601 1
 117C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133103040365276207 0
 131C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133103040386716151 0
 76C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\svgo\lib133103040373276186 1
@@ -67,7 +67,7 @@
 78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\css-select133103040365996208 1
 106C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\packager-js\lib\DevPackager.js133103040373756191 0
 115C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@parcel\optimizer-terser\lib\TerserOptimizer.js133103040379876184 0
-75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_about.scss133108146297867384 0
+75C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\src\scss\_about.scss133108157044832712 0
 92C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\@swc\helpers\lib\_jsx.js133103040370996201 0
 118C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133103040366236204 0
 100C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\yaml\dist\resolveSeq-d03cb037.js133103040366916198 0
@@ -4351,8 +4351,8 @@
 79C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\terser133103040398182376 0
 83C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\node_modules\.bin\terser.ps1133103040398182376 0
 87C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\done_design.59712999.js.map133107687191132502 0
-78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css133108143183858687 0
-82C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css.map133108143183938766 0
+78C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css133108157045955663 0
+82C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.b10d73a7.css.map133108157045995601 0
 70C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\index.html133107687190274808 0
 105C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\negative-space-black-forest-dawn.1f96b6d6.jpg133107687192866234 0
 88C:\Users\Jonathan\OneDrive\Dokument\WIE22S\done_design\dist\NoPerson_Square.f348d49f.png133107687189955647 0
