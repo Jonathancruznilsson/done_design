@@ -2,13 +2,13 @@
 @use "mixins" as m;
 
 
-
+  // NATURE PICTURE
   
   body {
   @include m.background-image;
 
     
-  
+  // STARTPAGE
   }
   main {
     display: flex;
@@ -38,6 +38,7 @@
 
 .main_arrowdown {
     font-size: 30px;
+    
     
     /* används inte
     @include m.desktop {

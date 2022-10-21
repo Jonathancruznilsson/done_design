@@ -12,7 +12,7 @@
 
     @include m.desktop {
 
-    flex-direction: row;
+    flex-direction: row; //VARFÖR FUNGERAR INTE DET HÄR?
     flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 20px;
@@ -23,9 +23,8 @@
     h3{
         text-align: center;
         width:100%;
-        color:black;
-        font-size: xx-large;
-   
+        color: v.$profile_color;
+        font-size: xx-large; 
     }
 
     .profile {
@@ -42,7 +41,7 @@
 
         &__name {
 
-        color:black;
+        color: v.$profile_color;
         text-align: center;
         font-size: 25px;
         font-weight: bolder;
@@ -50,9 +49,9 @@
         } 
 
         &__img {
-            width:80%;
+            width:70%;
              @include m.desktop{
-                width: 20%;
+                width: 30%;
              }
        
         img {
@@ -74,36 +73,33 @@
             border-radius: 5px;
 
             p{
-                color:black;
+                color: v.$profile_color;
             }
          
             &__logo {
                 i {
                 font-size: 55px;
-                color:black;
-            }
+                color: v.$profile_color;
+          }
+         } 
         }
-       
-        }
-
-            }
+      }
         
     .about_arrowdown {
    
         margin-top: 35px;
         margin-bottom: 30px;
         font-size: 30px;
-        color:black;
-        background-color: black;
+        color:v.$profile_color;
+        background-color: v.$profile_color;
         border-radius: 50%;
 
         @include m.desktop {
-            width:100%;
-            text-align: center;
-            display:none;
-         
+        width:100%;
+        text-align: center;
+        display:none;
+        //Desktop arrow används inte
         }
-    }
-        
+      }     
     }
     

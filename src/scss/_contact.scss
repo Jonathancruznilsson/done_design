@@ -1,7 +1,7 @@
 @use "variables" as v;
 @use "mixins" as m;
 
-
+//FOOTER
 
 .footer {
     display: flex;
@@ -37,8 +37,6 @@
        gap:20px;
        margin-bottom: 15px;
 
-       
-
          i {
 
         font-size: 35px;
@@ -56,8 +54,6 @@
     &__contact {
      margin-left: 50px;
  }
-
- &__social {}  
    
 }
 
